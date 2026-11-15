@@ -1,0 +1,8 @@
+{
+  "name": "CNC 中文扩展源",
+  "description": "CNCVerse CloudStream 扩展（含 Bilibili 等 43 个）",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@main/plugins.json"
+  ]
+}
