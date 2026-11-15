@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,IPTV(IPV6专用)
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+
+#EXTINF:-1,Global直播源
+https://live.fanmingming.com/tv/m3u/global.m3u
+
+#EXTINF:-1,Radio直播源
+https://live.fanmingming.com/radio/m3u/index.m3u
+
+#EXTINF:-1,包头联通IPTV
+https://live.fanmingming.com/tv/m3u/btcu.m3u
