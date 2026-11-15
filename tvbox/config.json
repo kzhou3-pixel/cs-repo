@@ -3,7 +3,7 @@
   {
    "key": "s_1",
    "name": "量子资源",
-   "type": 0,
+   "type": 1,
    "api": "http://cj.lziapi.com/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -39,7 +39,7 @@
   {
    "key": "s_2",
    "name": "非凡资源",
-   "type": 0,
+   "type": 1,
    "api": "http://www.ffzy.tv/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -73,7 +73,7 @@
   {
    "key": "s_5",
    "name": "无尽资源",
-   "type": 0,
+   "type": 1,
    "api": "https://api.wujinapi.me/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -107,7 +107,7 @@
   {
    "key": "s_18",
    "name": "樱花资源",
-   "type": 0,
+   "type": 1,
    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -145,7 +145,7 @@
   {
    "key": "s_20",
    "name": "闪电资源",
-   "type": 0,
+   "type": 1,
    "api": "http://sdzyapi.com/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -175,7 +175,7 @@
   {
    "key": "s_22",
    "name": "红牛资源",
-   "type": 0,
+   "type": 1,
    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -208,7 +208,7 @@
   {
    "key": "s_c5dba7f4-7a15-47cf-9db5-9db23a098781",
    "name": "百度资源",
-   "type": 0,
+   "type": 1,
    "api": "https://api.apibdzy.com/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -238,7 +238,7 @@
   {
    "key": "s_1fab2907-7a0f-4b66-a1e0-879c1a8bf859",
    "name": "虎牙资源",
-   "type": 0,
+   "type": 1,
    "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -274,7 +274,7 @@
   {
    "key": "s_f01cfbea-c361-47f1-831a-350d73f57d0a",
    "name": "淘片资源",
-   "type": 0,
+   "type": 1,
    "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -284,7 +284,7 @@
   {
    "key": "s_e7a122f6-5f28-4e18-afc6-3d78c201b561",
    "name": "金鹰云资源",
-   "type": 0,
+   "type": 1,
    "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -320,7 +320,7 @@
   {
    "key": "s_26462f1a-ec20-480e-b331-4400624bb030",
    "name": "滴滴资源",
-   "type": 0,
+   "type": 1,
    "api": "https://api.ddapi.cc/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -347,7 +347,7 @@
   {
    "key": "s_210ab814-c64b-4869-9e2a-a717d3566cf3",
    "name": "色猫资源",
-   "type": 0,
+   "type": 1,
    "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -357,7 +357,7 @@
   {
    "key": "s_91dea055-8248-416b-b3b0-a158bc1dd6ca",
    "name": "番号资源",
-   "type": 0,
+   "type": 1,
    "api": "http://fhapi9.com/api.php/provide/vod/at/json/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
@@ -385,7 +385,7 @@
   {
    "key": "s_57274629-238f-4455-ac82-dd1179e1db5e",
    "name": "老色b资源",
-   "type": 0,
+   "type": 1,
    "api": "https://apilsbzy1.com/api.php/provide/vod/",
    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
    "searchable": 1,
