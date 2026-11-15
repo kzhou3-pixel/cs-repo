@@ -23,12 +23,12 @@
   },
   {
    "name": "初秋语┃ipv4",
-   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@9730ec2731494f653af803f070bdcabcc911a93e/tvbox/list.txt",
+   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/list.txt",
    "type": "txt"
   },
   {
    "name": "初秋语┃电台",
-   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@9730ec2731494f653af803f070bdcabcc911a93e/tvbox/radio.txt",
+   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/radio.txt",
    "type": "txt"
   }
  ],
@@ -397,6 +397,21 @@
    "changeable": 0
   },
   {
+   "key": "酷奇",
+   "name": "🎤酷奇┃MV",
+   "type": 3,
+   "api": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/kuqi_mv.js",
+   "style": {
+    "type": "rect",
+    "ratio": 1.597
+   },
+   "timeout": 10,
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0
+  },
+  {
    "key": "MTV",
    "name": "🎧明星┃MV",
    "type": 3,
@@ -424,6 +439,37 @@
    },
    "timeout": 10,
    "playerType": "2",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0
+  },
+  {
+   "key": "斗鱼js",
+   "name": "🐟斗鱼┃直播",
+   "type": 3,
+   "api": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/drpy2.js",
+   "ext": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/douyu_live.js",
+   "style": {
+    "type": "rect",
+    "ratio": 1.755
+   },
+   "timeout": 10,
+   "playerType": "2",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0
+  },
+  {
+   "key": "有声小说js",
+   "name": "🎧有声┃小说",
+   "type": 3,
+   "api": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/yusheng_xiaoshuoba.js",
+   "style": {
+    "type": "rect",
+    "ratio": 1
+   },
+   "timeout": 10,
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 0
