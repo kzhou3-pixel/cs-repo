@@ -1,5 +1,5 @@
 {
- "spider": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@COMMIT/tvbox/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
+ "spider": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@9730ec2731494f653af803f070bdcabcc911a93e/tvbox/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
  "lives": [
   {
    "name": "电视台┃ZY",
@@ -23,12 +23,12 @@
   },
   {
    "name": "初秋语┃ipv4",
-   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@COMMIT/tvbox/list.txt",
+   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@9730ec2731494f653af803f070bdcabcc911a93e/tvbox/list.txt",
    "type": "txt"
   },
   {
    "name": "初秋语┃电台",
-   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@COMMIT/tvbox/radio.txt",
+   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@9730ec2731494f653af803f070bdcabcc911a93e/tvbox/radio.txt",
    "type": "txt"
   }
  ],
