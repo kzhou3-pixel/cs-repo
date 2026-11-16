@@ -1,66 +1,6 @@
 {
  "tbl_site": [
   {
-   "key": "⚽Jrs┃球迷",
-   "name": "⚽Jrs┃球迷",
-   "api": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/drpy2.min.js",
-   "download": "",
-   "jiexiUrl": "",
-   "group": "默认",
-   "status": true,
-   "isActive": true,
-   "type": 1,
-   "id": "1"
-  },
-  {
-   "key": "🎤酷奇┃MV",
-   "name": "🎤酷奇┃MV",
-   "api": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/drpy2.min.js",
-   "download": "",
-   "jiexiUrl": "",
-   "group": "默认",
-   "status": true,
-   "isActive": true,
-   "type": 1,
-   "id": "2"
-  },
-  {
-   "key": "🐯虎牙┃直播",
-   "name": "🐯虎牙┃直播",
-   "api": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/drpy2.js",
-   "download": "",
-   "jiexiUrl": "",
-   "group": "默认",
-   "status": true,
-   "isActive": true,
-   "type": 1,
-   "id": "3"
-  },
-  {
-   "key": "🐟斗鱼┃直播",
-   "name": "🐟斗鱼┃直播",
-   "api": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/drpy2.js",
-   "download": "",
-   "jiexiUrl": "",
-   "group": "默认",
-   "status": true,
-   "isActive": true,
-   "type": 1,
-   "id": "4"
-  },
-  {
-   "key": "🎧有声┃小说",
-   "name": "🎧有声┃小说",
-   "api": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/js/drpy2.min.js",
-   "download": "",
-   "jiexiUrl": "",
-   "group": "默认",
-   "status": true,
-   "isActive": true,
-   "type": 1,
-   "id": "5"
-  },
-  {
    "key": "百度┃采集",
    "name": "百度┃采集",
    "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
@@ -70,7 +10,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "6"
+   "id": "1"
   },
   {
    "key": "暴風┃采集",
@@ -82,7 +22,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "7"
+   "id": "2"
   },
   {
    "key": "索尼┃采集",
@@ -94,7 +34,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "8"
+   "id": "3"
   },
   {
    "key": "量子资源",
@@ -106,7 +46,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "9"
+   "id": "4"
   },
   {
    "key": "非凡资源",
@@ -118,7 +58,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "10"
+   "id": "5"
   },
   {
    "key": "无尽资源",
@@ -130,7 +70,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "11"
+   "id": "6"
   },
   {
    "key": "樱花资源",
@@ -142,7 +82,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "12"
+   "id": "7"
   },
   {
    "key": "闪电资源",
@@ -154,7 +94,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "13"
+   "id": "8"
   },
   {
    "key": "红牛资源",
@@ -166,7 +106,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "14"
+   "id": "9"
   },
   {
    "key": "虎牙资源",
@@ -178,7 +118,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "15"
+   "id": "10"
   },
   {
    "key": "淘片资源",
@@ -190,7 +130,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "16"
+   "id": "11"
   },
   {
    "key": "金鹰云资源",
@@ -202,7 +142,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "17"
+   "id": "12"
   },
   {
    "key": "滴滴资源",
@@ -214,7 +154,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "18"
+   "id": "13"
   },
   {
    "key": "色猫资源",
@@ -226,7 +166,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "19"
+   "id": "14"
   },
   {
    "key": "番号资源",
@@ -238,7 +178,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "20"
+   "id": "15"
   },
   {
    "key": "老色b资源",
@@ -250,7 +190,7 @@
    "status": true,
    "isActive": true,
    "type": 1,
-   "id": "21"
+   "id": "16"
   }
  ],
  "tbl_iptv": [
@@ -285,22 +225,6 @@
    "type": "url",
    "isActive": true,
    "id": "4"
-  },
-  {
-   "name": "初秋语┃ipv4",
-   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/list.txt",
-   "epg": "",
-   "type": "url",
-   "isActive": true,
-   "id": "5"
-  },
-  {
-   "name": "初秋语┃电台",
-   "url": "https://cdn.jsdelivr.net/gh/kzhou3-pixel/cs-repo@808587e25ad30f18daf84d21d0ed20973045e5b1/tvbox/radio.txt",
-   "epg": "",
-   "type": "url",
-   "isActive": true,
-   "id": "6"
   }
  ],
  "tbl_channel": [
@@ -1308,151 +1232,151 @@
  ],
  "tbl_analyze": [
   {
-   "id": "90f6fc8b-2d84",
+   "id": "79bb5ea1-7fc6",
    "name": "Json聚合",
    "url": "Demo",
    "isActive": true
   },
   {
-   "id": "40394883-9bbb",
+   "id": "c344461e-412b",
    "name": "虾米",
    "url": "https://jx.xmflv.com/?url=",
    "isActive": true
   },
   {
-   "id": "c8649d45-ab1f",
+   "id": "31c9c1ee-4724",
    "name": "PM",
    "url": "https://www.playm3u8.cn/jiexi.php?url=",
    "isActive": true
   },
   {
-   "id": "5bb2d78f-f211",
+   "id": "a82e63bd-1d0a",
    "name": "m3u8",
    "url": "https://jx.m3u8.tv/jiexi/?url=",
    "isActive": true
   },
   {
-   "id": "34914a45-1859",
+   "id": "fa4ae534-57b5",
    "name": "8090",
    "url": "https://www.8090.la/8090/?url=",
    "isActive": true
   },
   {
-   "id": "07b9302a-6f62",
+   "id": "e6af47c7-aa61",
    "name": "看看",
    "url": "https://jx.m3u8.pw/?url=",
    "isActive": true
   },
   {
-   "id": "66dbf97f-8180",
+   "id": "d6f5f696-1019",
    "name": "咸鱼",
    "url": "https://jx.xyflv.cc/?url=",
    "isActive": true
   },
   {
-   "id": "9964cbfd-cb97",
+   "id": "0c239cbf-0d71",
    "name": "云解析",
    "url": "https://jx.yparse.com/index.php?url=",
    "isActive": true
   },
   {
-   "id": "b58ed87e-6a23",
+   "id": "f28a3e4f-e4df",
    "name": "爱豆",
    "url": "https://jx.aidouer.net/?url=",
    "isActive": true
   },
   {
-   "id": "60a4df2b-1c26",
+   "id": "e9d05049-67d0",
    "name": "巧技",
    "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
    "isActive": true
   },
   {
-   "id": "59778a60-bb5b",
+   "id": "2f14bc83-007b",
    "name": "巧技二",
    "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
    "isActive": true
   },
   {
-   "id": "bed1ffcd-d651",
+   "id": "37121a5a-b392",
    "name": "解析1",
    "url": "https://ffzyplayer.com/?url=",
    "isActive": true
   },
   {
-   "id": "eea8f689-8825",
+   "id": "97e84005-28b5",
    "name": "解析2",
    "url": "https://jx.xyflv.cc/?url=",
    "isActive": true
   },
   {
-   "id": "c0732979-0768",
+   "id": "ce068172-5535",
    "name": "解析3",
    "url": "https://jx.xmflv.com/?url=",
    "isActive": true
   },
   {
-   "id": "984c7a0c-06b9",
+   "id": "774b8876-aeef",
    "name": "解析4",
    "url": "https://www.yemu.xyz/?url=",
    "isActive": true
   },
   {
-   "id": "fef0c499-2068",
+   "id": "c6d2150d-e047",
    "name": "解析5",
    "url": "https://dmjx.m3u8.tv/?url=",
    "isActive": true
   },
   {
-   "id": "17c005ae-8c74",
+   "id": "602bf3f2-0c05",
    "name": "解析6",
    "url": "https://bd.jx.cn/?url=",
    "isActive": true
   },
   {
-   "id": "020eefe5-c4fe",
+   "id": "d0a4fd23-1bda",
    "name": "解析7",
    "url": "https://www.ckplayer.vip/jiexi/?url=",
    "isActive": true
   },
   {
-   "id": "8fc256d0-997f",
+   "id": "e089f80a-deb8",
    "name": "解析8",
    "url": "https://jx.playerjy.com/?url=",
    "isActive": true
   },
   {
-   "id": "c97f2f9f-cf94",
+   "id": "197bd5ea-14ec",
    "name": "解析9",
    "url": "https://vip.bljiex.com/?v=",
    "isActive": true
   },
   {
-   "id": "c3d252a9-1218",
+   "id": "dda7bd5a-cad3",
    "name": "解析10",
    "url": "https://jx.jsonplayer.com/player/?url=",
    "isActive": true
   },
   {
-   "id": "fe48ac6e-784b",
+   "id": "dcd0a66d-8203",
    "name": "解析11",
    "url": "https://jx.i2g.cn/?url=",
    "isActive": true
   },
   {
-   "id": "ed7c4524-3f6a",
+   "id": "7f5a6183-fdc3",
    "name": "解析12",
    "url": "http://jx.66666zy.top/?url=",
    "isActive": true
   },
   {
-   "id": "78c782bc-152e",
+   "id": "b8fb0eb4-ae23",
    "name": "解析13",
    "url": "https://jx.xgphp.cn/player/?url=",
    "isActive": true
   },
   {
-   "id": "5c98555b-e6fb",
+   "id": "75a41b64-ffa5",
    "name": "解析14",
    "url": "https://im1907.top/?jx=",
    "isActive": true
